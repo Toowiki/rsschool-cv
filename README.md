@@ -1,1 +1,1 @@
-# rsschool-cv
+https://toowiki.github.io/rsschool-cv/cv
