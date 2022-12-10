@@ -1,20 +1,20 @@
-#Alekseeva Viktoriya
-###Contacts:
-*Discord: toowiki
-*Phone: +7 (987) 457-15-67
-*E-mail: tootoowiki@gmail.com
-###About myself:
+# Alekseeva Viktoriya
+### Contacts:
+* Discord: toowiki
+* Phone: +7 (987) 457-15-67
+* E-mail: tootoowiki@gmail.com
+### About myself:
 I'm QA but I want to become a **frontend developer**!
-###Skills and Proficiency:
+### Skills and Proficiency:
 I'm just learning
-###Code example:
-###Work experience:
+### Code example:
+### Work experience:
 Haulmont 
-2017 - ...
-###Education and courses:
+_2017 - ..._
+### Education and courses:
 Togliatti State University
 Applied Informatics-Mathematics
-2017-2019
-###Language:
-*Russian - native speaker
-*English - A2
+_2017-2019_
+### Language:
+* Russian - native speaker
+* English - A2
