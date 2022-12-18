@@ -1,0 +1,20 @@
+# Alekseeva Viktoriya
+### Contacts:
+* Discord: toowiki
+* Phone: +7 (987) 457-15-67
+* E-mail: tootoowiki@gmail.com
+### About myself:
+I'm QA but I want to become a **frontend developer**!
+### Skills and Proficiency:
+I'm just learning
+### Code example:
+### Work experience:
+Haulmont 
+_2017 - ..._
+### Education and courses:
+Togliatti State University
+Applied Informatics-Mathematics
+_2017-2019_
+### Language:
+* Russian - native speaker
+* English - A2
