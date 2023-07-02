@@ -4,7 +4,7 @@
 * Phone: +7 (987) 457-15-67
 * E-mail: tootoowiki@gmail.com
 ## About myself:
-I'm QA but I want to become a **frontend developer**!
+I'm QA but I want to become a __frontend developer__!
 ## Skills and Proficiency:
 I'm just learning
 ## Code example:
@@ -18,8 +18,8 @@ Haulmont
 _2017 - ..._
 ## Education and courses:
 Togliatti State University
-***Applied Informatics-Mathematics***
-*2017-2019*
+___Applied Informatics-Mathematics___
+_2017-2019_
 ## Language:
 * Russian - native speaker
 * English - A2
