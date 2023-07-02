@@ -23,10 +23,8 @@ Haulmont
 _2017 - ..._
 
 ### Education and courses:
-Togliatti State University
-
-___Applied Informatics-Mathematics___
-
+Togliatti State University\
+___Applied Informatics-Mathematics___\
 _2017-2019_
 
 ### Language:
