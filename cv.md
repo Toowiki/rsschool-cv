@@ -19,9 +19,7 @@ _2017 - ..._
 ## Education and courses:
 Togliatti State University
 
-
 ***Applied Informatics-Mathematics***
-
 
 *2017-2019*
 ## Language:
