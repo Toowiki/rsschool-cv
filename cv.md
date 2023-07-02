@@ -1,8 +1,8 @@
 # Alekseeva Viktoriya
 ## Contacts:
-* Discord: toowiki
-* Phone: +7 (987) 457-15-67
-* E-mail: tootoowiki@gmail.com
+ * Discord: toowiki
+ * Phone: +7 (987) 457-15-67
+ * E-mail: tootoowiki@gmail.com
 ## About myself:
 I'm QA but I want to become a __frontend developer__!
 ## Skills and Proficiency:
