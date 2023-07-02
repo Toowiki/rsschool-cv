@@ -18,9 +18,12 @@ Haulmont
 _2017 - ..._
 ## Education and courses:
 Togliatti State University
-****
-__Applied Informatics-Mathematics__
-_2017-2019_
+
+
+***Applied Informatics-Mathematics***
+
+
+*2017-2019*
 ## Language:
 * Russian - native speaker
 * English - A2
