@@ -2,15 +2,16 @@
 
 .my-photo {
     height: 10rem;
-    border-radius: 50rem;
+    border-radius: 5rem;
 }
 
 body {
-    margin: 0;
+    margin: auto;
     padding: 0;
     font-family: 'Agdasima', cursive;
-    color: #212529;
+    color: #20002c;
     background-color: #e9ecef;
+    width: 45rem;
 }
 
 .navigation {
@@ -58,6 +59,7 @@ body {
 
 .header-title {
     text-align: center;
+    margin-bottom: 0;
 }
 
 .footer {
