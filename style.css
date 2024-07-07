@@ -1,0 +1,74 @@
+@import url('https://fonts.googleapis.com/css2?family=Agdasima&display=swap');
+
+.my-photo {
+    height: 10rem;
+    border-radius: 5rem;
+}
+
+body {
+    margin: auto;
+    padding: 0;
+    font-family: 'Agdasima', cursive;
+    color: #20002c;
+    background-color: #e9ecef;
+    width: 45rem;
+}
+
+.navigation {
+    margin: 0.5rem 0.2rem;
+}
+
+.section {
+    width: 40rem;
+    border-radius: 0.3rem;
+    padding: 0.2rem 1.5rem;
+    margin-top: 2rem;
+    box-shadow: 0 0 0.05rem rgb(73, 80, 87);
+    transition: box-shadow 12ms ease;
+    background-color: #f8f9fa;
+}
+
+.section:hover {
+    box-shadow: 0 0 0.05rem rgb(73 80 87 / 20%);
+}
+
+.navigation-list {
+    margin: 0;
+    list-style: none;
+    padding: 0;
+    display: flex;
+    justify-content: space-around;
+}
+
+.link {
+    text-decoration: none;
+    color: #212529;
+    transition: color 12ms ease;
+}
+
+.link:hover {
+    color: rgb(0 0 0 / 60%);
+}
+
+
+.main {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.header-title {
+    text-align: center;
+    margin-bottom: 0;
+}
+
+.footer {
+    margin: 2rem 1rem;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.footer-item a img {
+    width: 3rem;
+}
