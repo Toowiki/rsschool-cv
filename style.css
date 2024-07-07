@@ -41,7 +41,7 @@ body {
 }
 
 .link {
-    text-decoration: none;    
+    text-decoration: none;
     color: #212529;
     transition: color 12ms ease;
 }
